@@ -1,0 +1,9 @@
+Flask
+Flask-Cors
+torch
+torchvision
+numpy
+Pillow
+scikit-image
+opencv-python
+matplotlib
